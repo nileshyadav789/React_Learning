@@ -1,3 +1,4 @@
+#Demo application for learning new features of the reactive programming language
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
